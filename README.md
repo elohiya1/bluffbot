@@ -1,4 +1,4 @@
-# poker-rl
+# Bluffbot (Poker RL)
 
 A heads-up (1v1) No-Limit Hold'em RL agent trained via self-play with PPO. Built after playing a few poker games this summer.
 
